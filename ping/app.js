@@ -1,4 +1,4 @@
-element = document.querySelector(.a);
+element = document.querySelector('.a');
 	
  
 let test = () =>{
